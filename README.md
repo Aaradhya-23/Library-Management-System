@@ -24,7 +24,7 @@ CSV Data Files:
 
 Note-
 - Temporary Files:  
-  The file `temp.csv` is used internally during certain operations (like updating or deleting user data). I
+  The file `temp.csv` is used internally during certain operations (like updating or deleting user data).
 - User Account Files:  
   Files such as `101_account.csv` are generated automatically at runtime when a user logs in or performs an operation.
 
