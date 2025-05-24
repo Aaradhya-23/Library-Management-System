@@ -37,9 +37,12 @@ Compilation
 To compile the project, run the following command from the terminal:
 ```sh
     g++ -o Library_system Library_system.cpp
-Running:
-    ./Library_system
 ```
+Running:
+   ```sh
+ ./Library_system
+```
+
 
 Workflow
 User Login:
